@@ -1,0 +1,6 @@
+{
+  "name": "Bazaar Saathi",
+  "description": "AI-Powered Digital Finance Platform for Street Vendors with smart bookkeeping, sales/expense tracking, inventory alerts, cash-flow predictions, and voice transaction entry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
